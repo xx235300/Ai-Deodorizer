@@ -1,5 +1,7 @@
 # Ai-Deodorizer
 
+English ｜ [[简体中文](https://github.com/xx235300/Ai-Deodorizer/blob/main/README_ZH.md)]
+
 > Remove signs of AI-generated writing. Make text sound natural and human.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
