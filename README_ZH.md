@@ -1,5 +1,7 @@
 # Ai-Deodorizer（去AI味）
 
+[[English](https://github.com/xx235300/Ai-Deodorizer/blob/main/README.md)] ｜ 简体中文
+
 > 去除文本中的AI生成痕迹，让内容听起来更像人类书写。
 
 [![许可证：MIT](https://img.shields.io/badge/许可证-MIT-green)](LICENSE)
